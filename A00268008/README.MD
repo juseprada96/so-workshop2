@@ -6,7 +6,7 @@
 
 ## Descripción
 
-## Corta descripción de lo realizado en el taller
+Corta descripción de lo realizado en el taller
 
 ## Referencias
 
