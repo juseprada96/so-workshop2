@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+Taller de diapositivas acerca de evento importante en los sistemas operativos
 
 ## Referencias
 
